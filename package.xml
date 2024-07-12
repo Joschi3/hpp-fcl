@@ -17,15 +17,15 @@
   <build_depend>python-lxml</build_depend>
   <doc_depend>doxygen</doc_depend>
   <doc_depend>python-lxml</doc_depend>
-  <depend>python</depend>
+  <depend>python3</depend>
   <depend>python-numpy</depend>
   <depend>eigen</depend>
   <depend>boost</depend>
   <depend>assimp</depend>
   <depend>octomap</depend>
   <depend>liboctomap-dev</depend>
-  <depend>libassimp-dev</depend>
-<!--   <depend>eigenpy</depend> -->
+<!--  <depend>libassimp-dev</depend>
+   <depend>eigenpy</depend> -->
 
   <buildtool_depend>cmake</buildtool_depend>
   <export>
